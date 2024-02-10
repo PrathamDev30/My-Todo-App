@@ -1,0 +1,47 @@
+/* .Nav {
+    display: flex;
+    padding-top: 1rem; 
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    font-size: 1.25rem; 
+}
+
+.Nav h1 {
+    font-size: 1.25rem; 
+    font-weight: bold;
+}
+
+.Nav ul {
+    display: flex;
+    font-size: 0.75rem;
+    gap: 40px;
+    justify-content: space-around; 
+} */
+
+/* .delete,
+.complete {
+    padding-top: 0.5rem; 
+    padding-bottom: 0.5rem; 
+    padding-left: 1rem; 
+    padding-right: 1rem;
+    color: #fff;
+    border-radius: 0.375rem; 
+    border: none; 
+    cursor: pointer; 
+}
+
+.delete {
+    background-color: rgb(253, 63, 0); 
+}
+
+.delete:hover {
+    background-color: #d96029;
+}
+
+.complete {
+    background-color: #7abf04; 
+}
+
+.complete:hover {
+    background-color: #15c10c; 
+} */

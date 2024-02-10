@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@700&family=Gamja+Flower&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Gaegu', sans-serif;
+  font-size: 21px;
+}
+input{
+  background-color: rgb(214, 209, 209);
+}
