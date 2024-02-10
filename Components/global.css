@@ -1,4 +1,4 @@
-/* .Nav {
+.Nav {
     display: flex;
     padding-top: 1rem; 
     flex-wrap: wrap;
@@ -18,7 +18,7 @@
     justify-content: space-around; 
 } */
 
-/* .delete,
+.delete,
 .complete {
     padding-top: 0.5rem; 
     padding-bottom: 0.5rem; 
@@ -44,4 +44,4 @@
 
 .complete:hover {
     background-color: #15c10c; 
-} */
+}
