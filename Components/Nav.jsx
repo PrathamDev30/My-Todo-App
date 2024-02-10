@@ -4,9 +4,9 @@ import "./global.css"
 
 const page = () => {
   return (
-    <div className="Nav flex pt-4 flex-wrap justify-around text-lg" >
-        <h1 className="text-lg font-bold">Todo APP</h1>
-        <ul className="flex text-sm gap-x-40 justify-around">
+    <div className="Nav" >
+        <h1 >Todo APP</h1>
+        <ul >
             <li>Home</li>
             <li>About</li>
             <li>Contact</li>

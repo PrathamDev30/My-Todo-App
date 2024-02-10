@@ -41,7 +41,7 @@ const Todo = ({
 
       <td className="px-6 py-4 flex gap-3">
         <button
-          className="delete py-2 px-4 text-white rounded-md bg-red-600 focus:outline-none hover:bg-red-700"
+          className="delete"
           onClick={() => deleteTodo(mongoID)}
         >
           Delete
@@ -50,7 +50,7 @@ const Todo = ({
           ""
         ) : (
           <button
-            className="complete py-2 px-4 text-white rounded-md bg-green-500 focus:outline-none hover:bg-green-600 "
+            className="complete "
             onClick={() => CompleteTodo(mongoID)}
           >
             Done
