@@ -8,7 +8,7 @@ import axios from "axios";
 import Head from "next/head";
 import "./globals.css";
 
-const page = () => {
+const Page = () => {
   const [formData, setformData] = useState({
     title: "",
     description: "",
@@ -174,4 +174,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
